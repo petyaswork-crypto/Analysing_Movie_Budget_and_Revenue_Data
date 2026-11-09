@@ -31,7 +31,7 @@ Stay tuned to find what the answer is!
 ### Steps
 1. Copy the repository
 2. Place "cost_revenue_data.csv" in the same repository as the notebook
-3. Open the file "Movie Budget and Revenue Data analysis.ipynb" in Google Colab or Visual Studio Code (these are optional, you can use any tool you preffer).
+3. Open the file "Movie Budget and Revenue Data analysis.ipynb" in Google Colab, Jupiter or Visual Studio Code (these are optional, you can use any tool you preffer).
 4. Run all cells top to bottom
 
 
